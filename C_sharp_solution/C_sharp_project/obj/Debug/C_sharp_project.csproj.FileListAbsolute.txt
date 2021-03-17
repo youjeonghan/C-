@@ -1,0 +1,7 @@
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\C_sharp_project.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\C_sharp_project.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\C_sharp_project.exe.config
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\C_sharp_project.exe
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\C_sharp_project.pdb
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\C_sharp_project.exe
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\C_sharp_project.pdb
