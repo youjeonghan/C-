@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\netcoreapp3.1\C_sharp_project.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\netcoreapp3.1\C_sharp_project.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\netcoreapp3.1\C_sharp_project.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\netcoreapp3.1\C_sharp_project.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\netcoreapp3.1\C_sharp_project.exe
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\netcoreapp3.1\C_sharp_project.deps.json
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\netcoreapp3.1\C_sharp_project.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\netcoreapp3.1\C_sharp_project.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\netcoreapp3.1\C_sharp_project.dll
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\bin\Debug\netcoreapp3.1\C_sharp_project.pdb
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\netcoreapp3.1\C_sharp_project.dll
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\netcoreapp3.1\C_sharp_project.pdb
+C:\Dev\Github\C_sharp_progaming\C_sharp_solution\C_sharp_project\obj\Debug\netcoreapp3.1\C_sharp_project.genruntimeconfig.cache

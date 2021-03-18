@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\bin\Debug\netcoreapp3.1\MessageDisplay1.exe
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\bin\Debug\netcoreapp3.1\MessageDisplay1.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\bin\Debug\netcoreapp3.1\MessageDisplay1.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\bin\Debug\netcoreapp3.1\MessageDisplay1.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\bin\Debug\netcoreapp3.1\MessageDisplay1.dll
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\bin\Debug\netcoreapp3.1\MessageDisplay1.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\obj\Debug\netcoreapp3.1\MessageDisplay1.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\obj\Debug\netcoreapp3.1\MessageDisplay1.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\obj\Debug\netcoreapp3.1\MessageDisplay1.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\obj\Debug\netcoreapp3.1\MessageDisplay1.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\obj\Debug\netcoreapp3.1\MessageDisplay1.dll
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\obj\Debug\netcoreapp3.1\MessageDisplay1.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay1\obj\Debug\netcoreapp3.1\MessageDisplay1.genruntimeconfig.cache
