@@ -6,7 +6,8 @@ namespace MessageDisplay1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");                      
+            Console.Write("Seoul");
+            Console.WriteLine("Hello World!");
         }
     }
 }

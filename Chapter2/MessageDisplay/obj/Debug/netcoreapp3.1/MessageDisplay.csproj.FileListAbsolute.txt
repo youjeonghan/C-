@@ -10,3 +10,4 @@ C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay\obj\Debug\netcoreapp3.1\
 C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay\obj\Debug\netcoreapp3.1\MessageDisplay.dll
 C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay\obj\Debug\netcoreapp3.1\MessageDisplay.pdb
 C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay\obj\Debug\netcoreapp3.1\MessageDisplay.genruntimeconfig.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\MessageDisplay\obj\Debug\netcoreapp3.1\MessageDisplay.csprojAssemblyReference.cache
