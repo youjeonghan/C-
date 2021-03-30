@@ -6,8 +6,11 @@ namespace MessageDisplay1
     {
         static void Main(string[] args)
         {
-            Console.Write("Seoul");
-            Console.WriteLine("Hello World!");
+            string s1 = "Korea";
+            string s2 = "seoul";
+            Console.WriteLine(s2 + " is the capital of " + s1);
+            Console.WriteLine("Sum: " + 10 + 10);
+            Console.WriteLine("Sum: " + (10 + 10));
         }
     }
 }

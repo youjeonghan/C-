@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\bin\Debug\netcoreapp3.1\ReadInput.exe
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\bin\Debug\netcoreapp3.1\ReadInput.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\bin\Debug\netcoreapp3.1\ReadInput.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\bin\Debug\netcoreapp3.1\ReadInput.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\bin\Debug\netcoreapp3.1\ReadInput.dll
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\bin\Debug\netcoreapp3.1\ReadInput.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\obj\Debug\netcoreapp3.1\ReadInput.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\obj\Debug\netcoreapp3.1\ReadInput.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\obj\Debug\netcoreapp3.1\ReadInput.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\obj\Debug\netcoreapp3.1\ReadInput.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\obj\Debug\netcoreapp3.1\ReadInput.dll
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\obj\Debug\netcoreapp3.1\ReadInput.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter2\ReadInput\obj\Debug\netcoreapp3.1\ReadInput.genruntimeconfig.cache

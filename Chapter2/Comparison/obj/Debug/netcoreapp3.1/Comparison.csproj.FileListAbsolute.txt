@@ -1,0 +1,12 @@
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\bin\Debug\netcoreapp3.1\Comparison.exe
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\bin\Debug\netcoreapp3.1\Comparison.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\bin\Debug\netcoreapp3.1\Comparison.dll
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\bin\Debug\netcoreapp3.1\Comparison.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\obj\Debug\netcoreapp3.1\Comparison.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\obj\Debug\netcoreapp3.1\Comparison.dll
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\obj\Debug\netcoreapp3.1\Comparison.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter2\Comparison\obj\Debug\netcoreapp3.1\Comparison.genruntimeconfig.cache
