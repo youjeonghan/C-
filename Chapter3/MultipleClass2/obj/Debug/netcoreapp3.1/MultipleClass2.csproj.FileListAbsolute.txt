@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\bin\Debug\netcoreapp3.1\MultipleClass2.exe
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\bin\Debug\netcoreapp3.1\MultipleClass2.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\bin\Debug\netcoreapp3.1\MultipleClass2.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\bin\Debug\netcoreapp3.1\MultipleClass2.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\bin\Debug\netcoreapp3.1\MultipleClass2.dll
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\bin\Debug\netcoreapp3.1\MultipleClass2.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\obj\Debug\netcoreapp3.1\MultipleClass2.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\obj\Debug\netcoreapp3.1\MultipleClass2.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\obj\Debug\netcoreapp3.1\MultipleClass2.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\obj\Debug\netcoreapp3.1\MultipleClass2.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\obj\Debug\netcoreapp3.1\MultipleClass2.dll
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\obj\Debug\netcoreapp3.1\MultipleClass2.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter3\MultipleClass2\obj\Debug\netcoreapp3.1\MultipleClass2.genruntimeconfig.cache
