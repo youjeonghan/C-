@@ -8,12 +8,12 @@ namespace MultipleClass2
     {
         string name;
         int id;
-        public void input()
+        internal void input()
         {
             name = Console.ReadLine();
             id = int.Parse(Console.ReadLine());
         }
-        public void display()
+        internal void display()
         {
             Console.WriteLine("Name: " + name);
             Console.WriteLine("Id: " + id);
