@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\obj\Debug\netcoreapp3.1\GetSet3.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\obj\Debug\netcoreapp3.1\GetSet3.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\obj\Debug\netcoreapp3.1\GetSet3.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\obj\Debug\netcoreapp3.1\GetSet3.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\bin\Debug\netcoreapp3.1\GetSet3.exe
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\bin\Debug\netcoreapp3.1\GetSet3.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\bin\Debug\netcoreapp3.1\GetSet3.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\bin\Debug\netcoreapp3.1\GetSet3.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\bin\Debug\netcoreapp3.1\GetSet3.dll
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\bin\Debug\netcoreapp3.1\GetSet3.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\obj\Debug\netcoreapp3.1\GetSet3.dll
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\obj\Debug\netcoreapp3.1\GetSet3.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter3\GetSet3\obj\Debug\netcoreapp3.1\GetSet3.genruntimeconfig.cache
