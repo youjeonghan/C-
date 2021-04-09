@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.exe
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.dll
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.dll
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter3\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.genruntimeconfig.cache
