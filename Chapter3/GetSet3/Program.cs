@@ -5,17 +5,8 @@ namespace GetSet3
     class Student
     {
         string name;
-        public string Name 
-        {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                name = value;
-            }
-        }
+        public string Name
+        { get; set; }
     }
     class Program
     {
