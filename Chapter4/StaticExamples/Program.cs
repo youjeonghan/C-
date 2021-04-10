@@ -5,17 +5,16 @@ namespace StaticExamples
     class Program
     {
         static string name;
-        int age;
-        void input(string family, int age)  // non static
+        static int age;
+        static void input(string family, int a)  // non static
         {
             name = family;
-            this.age = age;
+            age = a;
         }
         static void Main(string[] args)
         {
-            Program obj = new Program();
-            obj.input("Michel", 14);
-            Console.WriteLine(Program.name + "\n" + obj.age);
+            Program.input("Michel", 14);
+            Console.WriteLine(Program.name + "\n" + age);
         }
     }
 }
