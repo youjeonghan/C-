@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.exe
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.dll
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.dll
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter4\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.genruntimeconfig.cache
