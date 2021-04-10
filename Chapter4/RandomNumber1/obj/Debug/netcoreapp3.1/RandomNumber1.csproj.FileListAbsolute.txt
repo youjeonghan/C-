@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\bin\Debug\netcoreapp3.1\RandomNumber1.exe
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\bin\Debug\netcoreapp3.1\RandomNumber1.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\bin\Debug\netcoreapp3.1\RandomNumber1.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\bin\Debug\netcoreapp3.1\RandomNumber1.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\bin\Debug\netcoreapp3.1\RandomNumber1.dll
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\bin\Debug\netcoreapp3.1\RandomNumber1.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\obj\Debug\netcoreapp3.1\RandomNumber1.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\obj\Debug\netcoreapp3.1\RandomNumber1.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\obj\Debug\netcoreapp3.1\RandomNumber1.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\obj\Debug\netcoreapp3.1\RandomNumber1.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\obj\Debug\netcoreapp3.1\RandomNumber1.dll
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\obj\Debug\netcoreapp3.1\RandomNumber1.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter4\RandomNumber1\obj\Debug\netcoreapp3.1\RandomNumber1.genruntimeconfig.cache
