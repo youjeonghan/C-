@@ -13,11 +13,9 @@ namespace Test
                 arr[i] = int.Parse(Console.ReadLine());
             }
 
-            int[] arr1 = arr;
-            arr[0] = 100;
-            for (int i = 0; i < arr.Length; i++)
+            foreach (int i in arr)
             {
-                Console.WriteLine(arr1[i]);
+                Console.WriteLine(i);
             }
         }
     }
