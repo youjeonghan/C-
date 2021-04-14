@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter5\\Test\\Test_arr.csproj",
-      "projectName": "Test_arr",
-      "projectPath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter5\\Test\\Test_arr.csproj",
+      "projectUniqueName": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter5\\Test2\\Test2_arr_resize.csproj",
+      "projectName": "Test2_arr_resize",
+      "projectPath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter5\\Test2\\Test2_arr_resize.csproj",
       "packagesPath": "C:\\Users\\Jeongran\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter5\\Test\\obj\\",
+      "outputPath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter5\\Test2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jeongran\\AppData\\Roaming\\NuGet\\NuGet.Config",

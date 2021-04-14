@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\bin\Debug\netcoreapp3.1\Test1_arr_copy.exe
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\bin\Debug\netcoreapp3.1\Test1_arr_copy.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\bin\Debug\netcoreapp3.1\Test1_arr_copy.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\bin\Debug\netcoreapp3.1\Test1_arr_copy.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\bin\Debug\netcoreapp3.1\Test1_arr_copy.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\bin\Debug\netcoreapp3.1\Test1_arr_copy.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\obj\Debug\netcoreapp3.1\Test1_arr_copy.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\obj\Debug\netcoreapp3.1\Test1_arr_copy.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\obj\Debug\netcoreapp3.1\Test1_arr_copy.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\obj\Debug\netcoreapp3.1\Test1_arr_copy.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\obj\Debug\netcoreapp3.1\Test1_arr_copy.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\obj\Debug\netcoreapp3.1\Test1_arr_copy.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test1\obj\Debug\netcoreapp3.1\Test1_arr_copy.genruntimeconfig.cache

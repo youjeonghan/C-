@@ -6,16 +6,14 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[3];
-            Array.Resize(ref arr, 5);
-            for (int i=0; i<arr.Length; i++)
-            {
-                arr[i] = int.Parse(Console.ReadLine());
-            }
+            int[] arr = new int[4] { 10, 20, 30, 40 };
+            //int[] arr = { 10, 20, 30, 40 };                  // Success
+            // int[] arr = new int[] { 10, 20, 30, 40 };        // Success
 
-            foreach (int i in arr)
+            // int[] arr = new int[4] { 10, 20, 30, 40, 10};    // Error
+            for (int i = 0; i < arr.Length; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(arr[i]);
             }
         }
     }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test1_arr_copy/1.0.0": {
+        "runtime": {
+          "Test1_arr_copy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test1_arr_copy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
