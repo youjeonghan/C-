@@ -1,0 +1,12 @@
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\bin\Debug\netcoreapp3.1\JaggedArray2.exe
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\bin\Debug\netcoreapp3.1\JaggedArray2.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\bin\Debug\netcoreapp3.1\JaggedArray2.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\bin\Debug\netcoreapp3.1\JaggedArray2.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\bin\Debug\netcoreapp3.1\JaggedArray2.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\bin\Debug\netcoreapp3.1\JaggedArray2.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\obj\Debug\netcoreapp3.1\JaggedArray2.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\obj\Debug\netcoreapp3.1\JaggedArray2.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\obj\Debug\netcoreapp3.1\JaggedArray2.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\obj\Debug\netcoreapp3.1\JaggedArray2.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\obj\Debug\netcoreapp3.1\JaggedArray2.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\JaggedArray2\obj\Debug\netcoreapp3.1\JaggedArray2.genruntimeconfig.cache

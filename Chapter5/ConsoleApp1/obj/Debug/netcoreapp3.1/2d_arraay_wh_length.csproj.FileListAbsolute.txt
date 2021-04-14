@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\obj\Debug\netcoreapp3.1\2d_arraay_wh_length.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\obj\Debug\netcoreapp3.1\2d_arraay_wh_length.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\obj\Debug\netcoreapp3.1\2d_arraay_wh_length.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\obj\Debug\netcoreapp3.1\2d_arraay_wh_length.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\bin\Debug\netcoreapp3.1\2d_arraay_wh_length.exe
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\bin\Debug\netcoreapp3.1\2d_arraay_wh_length.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\bin\Debug\netcoreapp3.1\2d_arraay_wh_length.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\bin\Debug\netcoreapp3.1\2d_arraay_wh_length.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\bin\Debug\netcoreapp3.1\2d_arraay_wh_length.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\bin\Debug\netcoreapp3.1\2d_arraay_wh_length.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\obj\Debug\netcoreapp3.1\2d_arraay_wh_length.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\obj\Debug\netcoreapp3.1\2d_arraay_wh_length.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\ConsoleApp1\obj\Debug\netcoreapp3.1\2d_arraay_wh_length.genruntimeconfig.cache

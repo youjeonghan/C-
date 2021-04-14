@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\bin\Debug\netcoreapp3.1\2d_arraay_use.exe
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\bin\Debug\netcoreapp3.1\2d_arraay_use.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\bin\Debug\netcoreapp3.1\2d_arraay_use.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\bin\Debug\netcoreapp3.1\2d_arraay_use.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\bin\Debug\netcoreapp3.1\2d_arraay_use.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\bin\Debug\netcoreapp3.1\2d_arraay_use.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\obj\Debug\netcoreapp3.1\2d_arraay_use.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\obj\Debug\netcoreapp3.1\2d_arraay_use.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\obj\Debug\netcoreapp3.1\2d_arraay_use.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\obj\Debug\netcoreapp3.1\2d_arraay_use.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\obj\Debug\netcoreapp3.1\2d_arraay_use.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\obj\Debug\netcoreapp3.1\2d_arraay_use.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\2d_arraay_example15\obj\Debug\netcoreapp3.1\2d_arraay_use.genruntimeconfig.cache
