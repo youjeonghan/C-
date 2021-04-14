@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\bin\Debug\netcoreapp3.1\RollDie.exe
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\bin\Debug\netcoreapp3.1\RollDie.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\bin\Debug\netcoreapp3.1\RollDie.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\bin\Debug\netcoreapp3.1\RollDie.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\bin\Debug\netcoreapp3.1\RollDie.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\bin\Debug\netcoreapp3.1\RollDie.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\obj\Debug\netcoreapp3.1\RollDie.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\obj\Debug\netcoreapp3.1\RollDie.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\obj\Debug\netcoreapp3.1\RollDie.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\obj\Debug\netcoreapp3.1\RollDie.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\obj\Debug\netcoreapp3.1\RollDie.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\obj\Debug\netcoreapp3.1\RollDie.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\RollDie\obj\Debug\netcoreapp3.1\RollDie.genruntimeconfig.cache

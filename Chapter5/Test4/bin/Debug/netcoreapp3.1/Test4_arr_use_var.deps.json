@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test4_arr_use_var/1.0.0": {
+        "runtime": {
+          "Test4_arr_use_var.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test4_arr_use_var/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

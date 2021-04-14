@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\bin\Debug\netcoreapp3.1\Test3_var.exe
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\bin\Debug\netcoreapp3.1\Test3_var.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\bin\Debug\netcoreapp3.1\Test3_var.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\bin\Debug\netcoreapp3.1\Test3_var.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\bin\Debug\netcoreapp3.1\Test3_var.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\bin\Debug\netcoreapp3.1\Test3_var.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\obj\Debug\netcoreapp3.1\Test3_var.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\obj\Debug\netcoreapp3.1\Test3_var.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\obj\Debug\netcoreapp3.1\Test3_var.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\obj\Debug\netcoreapp3.1\Test3_var.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\obj\Debug\netcoreapp3.1\Test3_var.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\obj\Debug\netcoreapp3.1\Test3_var.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2_var\obj\Debug\netcoreapp3.1\Test3_var.genruntimeconfig.cache

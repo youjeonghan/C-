@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2_arr_resize", "Test2\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test3_var", "Test2_var\Test3_var.csproj", "{94E537A9-EA56-4850-B7A1-DC4036EEB06D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test4", "Test4\Test4.csproj", "{EA0CBC5C-5458-4D9C-AA1A-8C2CE8A37E6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test4_arr_use_var", "Test4\Test4_arr_use_var.csproj", "{EA0CBC5C-5458-4D9C-AA1A-8C2CE8A37E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollDie", "RollDie\RollDie.csproj", "{C2694E4B-6125-4B4F-B8BF-63C5E9085B7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{EA0CBC5C-5458-4D9C-AA1A-8C2CE8A37E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA0CBC5C-5458-4D9C-AA1A-8C2CE8A37E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA0CBC5C-5458-4D9C-AA1A-8C2CE8A37E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2694E4B-6125-4B4F-B8BF-63C5E9085B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2694E4B-6125-4B4F-B8BF-63C5E9085B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2694E4B-6125-4B4F-B8BF-63C5E9085B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2694E4B-6125-4B4F-B8BF-63C5E9085B7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

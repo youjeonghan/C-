@@ -1,0 +1,12 @@
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\bin\Debug\netcoreapp3.1\Test4_arr_use_var.exe
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\bin\Debug\netcoreapp3.1\Test4_arr_use_var.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\bin\Debug\netcoreapp3.1\Test4_arr_use_var.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\bin\Debug\netcoreapp3.1\Test4_arr_use_var.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\bin\Debug\netcoreapp3.1\Test4_arr_use_var.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\bin\Debug\netcoreapp3.1\Test4_arr_use_var.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\obj\Debug\netcoreapp3.1\Test4_arr_use_var.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\obj\Debug\netcoreapp3.1\Test4_arr_use_var.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\obj\Debug\netcoreapp3.1\Test4_arr_use_var.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\obj\Debug\netcoreapp3.1\Test4_arr_use_var.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\obj\Debug\netcoreapp3.1\Test4_arr_use_var.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test4\obj\Debug\netcoreapp3.1\Test4_arr_use_var.genruntimeconfig.cache

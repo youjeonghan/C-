@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\bin\Debug\netcoreapp3.1\Test2_arr_resize.exe
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\bin\Debug\netcoreapp3.1\Test2_arr_resize.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\bin\Debug\netcoreapp3.1\Test2_arr_resize.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\bin\Debug\netcoreapp3.1\Test2_arr_resize.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\bin\Debug\netcoreapp3.1\Test2_arr_resize.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\bin\Debug\netcoreapp3.1\Test2_arr_resize.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\obj\Debug\netcoreapp3.1\Test2_arr_resize.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\obj\Debug\netcoreapp3.1\Test2_arr_resize.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\obj\Debug\netcoreapp3.1\Test2_arr_resize.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\obj\Debug\netcoreapp3.1\Test2_arr_resize.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\obj\Debug\netcoreapp3.1\Test2_arr_resize.dll
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\obj\Debug\netcoreapp3.1\Test2_arr_resize.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter5\Test2\obj\Debug\netcoreapp3.1\Test2_arr_resize.genruntimeconfig.cache
