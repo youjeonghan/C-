@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\bin\Debug\netcoreapp3.1\using_linq.exe
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\bin\Debug\netcoreapp3.1\using_linq.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\bin\Debug\netcoreapp3.1\using_linq.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\bin\Debug\netcoreapp3.1\using_linq.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\bin\Debug\netcoreapp3.1\using_linq.dll
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\bin\Debug\netcoreapp3.1\using_linq.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\obj\Debug\netcoreapp3.1\using_linq.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\obj\Debug\netcoreapp3.1\using_linq.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\obj\Debug\netcoreapp3.1\using_linq.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\obj\Debug\netcoreapp3.1\using_linq.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\obj\Debug\netcoreapp3.1\using_linq.dll
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\obj\Debug\netcoreapp3.1\using_linq.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter6\ConsoleApp1\obj\Debug\netcoreapp3.1\using_linq.genruntimeconfig.cache

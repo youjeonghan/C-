@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\bin\Debug\netcoreapp3.1\generic_class.exe
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\bin\Debug\netcoreapp3.1\generic_class.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\bin\Debug\netcoreapp3.1\generic_class.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\bin\Debug\netcoreapp3.1\generic_class.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\bin\Debug\netcoreapp3.1\generic_class.dll
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\bin\Debug\netcoreapp3.1\generic_class.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\obj\Debug\netcoreapp3.1\generic_class.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\obj\Debug\netcoreapp3.1\generic_class.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\obj\Debug\netcoreapp3.1\generic_class.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\obj\Debug\netcoreapp3.1\generic_class.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\obj\Debug\netcoreapp3.1\generic_class.dll
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\obj\Debug\netcoreapp3.1\generic_class.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter6\generic_class\obj\Debug\netcoreapp3.1\generic_class.genruntimeconfig.cache

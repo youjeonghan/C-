@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\bin\Debug\netcoreapp3.1\LINQ_option.exe
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\bin\Debug\netcoreapp3.1\LINQ_option.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\bin\Debug\netcoreapp3.1\LINQ_option.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\bin\Debug\netcoreapp3.1\LINQ_option.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\bin\Debug\netcoreapp3.1\LINQ_option.dll
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\bin\Debug\netcoreapp3.1\LINQ_option.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\obj\Debug\netcoreapp3.1\LINQ_option.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\obj\Debug\netcoreapp3.1\LINQ_option.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\obj\Debug\netcoreapp3.1\LINQ_option.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\obj\Debug\netcoreapp3.1\LINQ_option.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\obj\Debug\netcoreapp3.1\LINQ_option.dll
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\obj\Debug\netcoreapp3.1\LINQ_option.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_orderby\obj\Debug\netcoreapp3.1\LINQ_option.genruntimeconfig.cache
