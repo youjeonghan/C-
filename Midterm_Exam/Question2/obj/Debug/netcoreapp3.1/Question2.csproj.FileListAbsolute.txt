@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\bin\Debug\netcoreapp3.1\Question2.exe
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\bin\Debug\netcoreapp3.1\Question2.deps.json
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\bin\Debug\netcoreapp3.1\Question2.dll
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\bin\Debug\netcoreapp3.1\Question2.pdb
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\obj\Debug\netcoreapp3.1\Question2.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\obj\Debug\netcoreapp3.1\Question2.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\obj\Debug\netcoreapp3.1\Question2.dll
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\obj\Debug\netcoreapp3.1\Question2.pdb
+C:\Dev\Github\C_sharp_progaming\Midterm_Exam\Question2\obj\Debug\netcoreapp3.1\Question2.genruntimeconfig.cache
