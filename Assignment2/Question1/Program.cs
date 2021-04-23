@@ -63,8 +63,6 @@ namespace Question1
             {
                 Console.Write(i + " ");
             }
-
-
         }
     }
 }

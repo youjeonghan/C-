@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\bin\Debug\netcoreapp3.1\Question4.exe
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\bin\Debug\netcoreapp3.1\Question4.deps.json
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\bin\Debug\netcoreapp3.1\Question4.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\bin\Debug\netcoreapp3.1\Question4.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\bin\Debug\netcoreapp3.1\Question4.dll
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\bin\Debug\netcoreapp3.1\Question4.pdb
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\obj\Debug\netcoreapp3.1\Question4.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\obj\Debug\netcoreapp3.1\Question4.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\obj\Debug\netcoreapp3.1\Question4.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\obj\Debug\netcoreapp3.1\Question4.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\obj\Debug\netcoreapp3.1\Question4.dll
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\obj\Debug\netcoreapp3.1\Question4.pdb
+C:\Dev\Github\C_sharp_progaming\Assignment2\Question4\obj\Debug\netcoreapp3.1\Question4.genruntimeconfig.cache
