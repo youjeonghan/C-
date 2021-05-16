@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.exe
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\bin\Debug\netcoreapp3.1\MultiLevel.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\MultiLevel\obj\Debug\netcoreapp3.1\MultiLevel.genruntimeconfig.cache
