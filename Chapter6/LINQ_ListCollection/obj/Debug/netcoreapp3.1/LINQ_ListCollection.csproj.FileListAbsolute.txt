@@ -1,0 +1,12 @@
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\bin\Debug\netcoreapp3.1\LINQ_ListCollection.exe
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\bin\Debug\netcoreapp3.1\LINQ_ListCollection.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\bin\Debug\netcoreapp3.1\LINQ_ListCollection.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\bin\Debug\netcoreapp3.1\LINQ_ListCollection.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\bin\Debug\netcoreapp3.1\LINQ_ListCollection.dll
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\bin\Debug\netcoreapp3.1\LINQ_ListCollection.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\obj\Debug\netcoreapp3.1\LINQ_ListCollection.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\obj\Debug\netcoreapp3.1\LINQ_ListCollection.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\obj\Debug\netcoreapp3.1\LINQ_ListCollection.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\obj\Debug\netcoreapp3.1\LINQ_ListCollection.dll
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\obj\Debug\netcoreapp3.1\LINQ_ListCollection.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter6\LINQ_ListCollection\obj\Debug\netcoreapp3.1\LINQ_ListCollection.genruntimeconfig.cache
