@@ -1,0 +1,12 @@
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\bin\Debug\netcoreapp3.1\parameterized_constructor.exe
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\bin\Debug\netcoreapp3.1\parameterized_constructor.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\bin\Debug\netcoreapp3.1\parameterized_constructor.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\bin\Debug\netcoreapp3.1\parameterized_constructor.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\bin\Debug\netcoreapp3.1\parameterized_constructor.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\bin\Debug\netcoreapp3.1\parameterized_constructor.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\obj\Debug\netcoreapp3.1\parameterized_constructor.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\obj\Debug\netcoreapp3.1\parameterized_constructor.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\obj\Debug\netcoreapp3.1\parameterized_constructor.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\obj\Debug\netcoreapp3.1\parameterized_constructor.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\obj\Debug\netcoreapp3.1\parameterized_constructor.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\parameterized_constructor\obj\Debug\netcoreapp3.1\parameterized_constructor.genruntimeconfig.cache

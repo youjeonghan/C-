@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\bin\Debug\netcoreapp3.1\Constructor.exe
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\bin\Debug\netcoreapp3.1\Constructor.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\bin\Debug\netcoreapp3.1\Constructor.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\bin\Debug\netcoreapp3.1\Constructor.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\obj\Debug\netcoreapp3.1\Constructor.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache
