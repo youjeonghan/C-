@@ -44,9 +44,9 @@ namespace parameterized_constructor_inheritance
         static void Main(string[] args)
         {
             B obj = new B(100);
-            obj.getdata(); //parent class method 
+            obj.getdata(); //parent class method
             obj.getdata1();
-            obj.display();//parent class method 
+            obj.display(); //parent class method
             obj.display1();
         }
     }
