@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\bin\Debug\netcoreapp3.1\interface_parent.exe
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\bin\Debug\netcoreapp3.1\interface_parent.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\bin\Debug\netcoreapp3.1\interface_parent.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\bin\Debug\netcoreapp3.1\interface_parent.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\bin\Debug\netcoreapp3.1\interface_parent.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\bin\Debug\netcoreapp3.1\interface_parent.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\obj\Debug\netcoreapp3.1\interface_parent.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\obj\Debug\netcoreapp3.1\interface_parent.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\obj\Debug\netcoreapp3.1\interface_parent.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\obj\Debug\netcoreapp3.1\interface_parent.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\obj\Debug\netcoreapp3.1\interface_parent.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\obj\Debug\netcoreapp3.1\interface_parent.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\Iparent\obj\Debug\netcoreapp3.1\interface_parent.genruntimeconfig.cache

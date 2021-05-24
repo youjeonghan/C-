@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parameterized_constructor2"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parameterized_constructor_inheritance", "parameterized_constructor_inheritance\parameterized_constructor_inheritance.csproj", "{C4FD243C-D0BC-430F-91F7-DA6A5175B2AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "override_method", "override_method\override_method.csproj", "{0BD5372F-12D8-4A77-A27E-24DBDB9E9A79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "override_method", "override_method\override_method.csproj", "{0BD5372F-12D8-4A77-A27E-24DBDB9E9A79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constructor_overloading", "constructor_overloading\constructor_overloading.csproj", "{81FD5D58-4DA3-416A-803B-A384F6840D81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "constructor_overloading", "constructor_overloading\constructor_overloading.csproj", "{81FD5D58-4DA3-416A-803B-A384F6840D81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract_class", "abstract_class\abstract_class.csproj", "{95ABDD4B-2687-479C-966D-13901BB3839B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstract_class", "abstract_class\abstract_class.csproj", "{95ABDD4B-2687-479C-966D-13901BB3839B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface_parent", "Iparent\interface_parent.csproj", "{ED220577-434F-4E2D-970A-8A6E0CE68839}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{95ABDD4B-2687-479C-966D-13901BB3839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95ABDD4B-2687-479C-966D-13901BB3839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95ABDD4B-2687-479C-966D-13901BB3839B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED220577-434F-4E2D-970A-8A6E0CE68839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED220577-434F-4E2D-970A-8A6E0CE68839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED220577-434F-4E2D-970A-8A6E0CE68839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED220577-434F-4E2D-970A-8A6E0CE68839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
