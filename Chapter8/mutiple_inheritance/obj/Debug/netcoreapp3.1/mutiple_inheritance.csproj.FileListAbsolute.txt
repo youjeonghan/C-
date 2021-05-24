@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\bin\Debug\netcoreapp3.1\mutiple_inheritance.exe
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\bin\Debug\netcoreapp3.1\mutiple_inheritance.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\bin\Debug\netcoreapp3.1\mutiple_inheritance.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\bin\Debug\netcoreapp3.1\mutiple_inheritance.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\bin\Debug\netcoreapp3.1\mutiple_inheritance.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\bin\Debug\netcoreapp3.1\mutiple_inheritance.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\obj\Debug\netcoreapp3.1\mutiple_inheritance.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\obj\Debug\netcoreapp3.1\mutiple_inheritance.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\obj\Debug\netcoreapp3.1\mutiple_inheritance.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\obj\Debug\netcoreapp3.1\mutiple_inheritance.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\obj\Debug\netcoreapp3.1\mutiple_inheritance.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\obj\Debug\netcoreapp3.1\mutiple_inheritance.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\mutiple_inheritance\obj\Debug\netcoreapp3.1\mutiple_inheritance.genruntimeconfig.cache

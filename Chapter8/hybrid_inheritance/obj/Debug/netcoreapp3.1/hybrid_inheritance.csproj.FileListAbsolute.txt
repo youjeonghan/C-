@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\bin\Debug\netcoreapp3.1\hybrid_inheritance.exe
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\bin\Debug\netcoreapp3.1\hybrid_inheritance.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\bin\Debug\netcoreapp3.1\hybrid_inheritance.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\bin\Debug\netcoreapp3.1\hybrid_inheritance.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\bin\Debug\netcoreapp3.1\hybrid_inheritance.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\bin\Debug\netcoreapp3.1\hybrid_inheritance.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\obj\Debug\netcoreapp3.1\hybrid_inheritance.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\obj\Debug\netcoreapp3.1\hybrid_inheritance.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\obj\Debug\netcoreapp3.1\hybrid_inheritance.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\obj\Debug\netcoreapp3.1\hybrid_inheritance.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\obj\Debug\netcoreapp3.1\hybrid_inheritance.dll
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\obj\Debug\netcoreapp3.1\hybrid_inheritance.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter8\hybrid_inheritance\obj\Debug\netcoreapp3.1\hybrid_inheritance.genruntimeconfig.cache
