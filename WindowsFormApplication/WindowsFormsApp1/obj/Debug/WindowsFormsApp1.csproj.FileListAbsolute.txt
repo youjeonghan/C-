@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.basicform.resources

@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\bin\Debug\netcoreapp3.1\WindowsFormApplication.exe
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\bin\Debug\netcoreapp3.1\WindowsFormApplication.deps.json
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\bin\Debug\netcoreapp3.1\WindowsFormApplication.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\bin\Debug\netcoreapp3.1\WindowsFormApplication.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\bin\Debug\netcoreapp3.1\WindowsFormApplication.dll
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\bin\Debug\netcoreapp3.1\WindowsFormApplication.pdb
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\obj\Debug\netcoreapp3.1\WindowsFormApplication.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\obj\Debug\netcoreapp3.1\WindowsFormApplication.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\obj\Debug\netcoreapp3.1\WindowsFormApplication.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\obj\Debug\netcoreapp3.1\WindowsFormApplication.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\obj\Debug\netcoreapp3.1\WindowsFormApplication.dll
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\obj\Debug\netcoreapp3.1\WindowsFormApplication.pdb
+C:\Dev\Github\C_sharp_progaming\WindowsFormApplication\WindowsFormApplication\obj\Debug\netcoreapp3.1\WindowsFormApplication.genruntimeconfig.cache
