@@ -1,0 +1,9 @@
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\bin\Debug\Panel.exe.config
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\bin\Debug\Panel.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\bin\Debug\Panel.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\obj\Debug\Panel.Form1.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\obj\Debug\Panel.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\obj\Debug\Panel.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\obj\Debug\Panel.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\obj\Debug\Panel.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Panel\obj\Debug\Panel.pdb

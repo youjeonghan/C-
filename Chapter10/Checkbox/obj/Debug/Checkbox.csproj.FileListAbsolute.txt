@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\bin\Debug\Checkbox.exe.config
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\bin\Debug\Checkbox.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\bin\Debug\Checkbox.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\obj\Debug\Checkbox.Form1.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\obj\Debug\Checkbox.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\obj\Debug\Checkbox.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\obj\Debug\Checkbox.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\obj\Debug\Checkbox.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\obj\Debug\Checkbox.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\Checkbox\obj\Debug\Checkbox.csprojAssemblyReference.cache

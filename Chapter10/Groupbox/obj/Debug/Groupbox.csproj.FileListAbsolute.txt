@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\bin\Debug\Groupbox.exe.config
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\bin\Debug\Groupbox.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\bin\Debug\Groupbox.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\obj\Debug\Groupbox.Form1.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\obj\Debug\Groupbox.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\obj\Debug\Groupbox.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\obj\Debug\Groupbox.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\obj\Debug\Groupbox.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\obj\Debug\Groupbox.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\Groupbox\obj\Debug\Groupbox.csprojAssemblyReference.cache

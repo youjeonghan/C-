@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\bin\Debug\Textbox_Radiobutton.exe.config
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\bin\Debug\Textbox_Radiobutton.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\bin\Debug\Textbox_Radiobutton.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\obj\Debug\Textbox_Radiobutton.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\obj\Debug\Textbox_Radiobutton.Form1.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\obj\Debug\Textbox_Radiobutton.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\obj\Debug\Textbox_Radiobutton.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\obj\Debug\Textbox_Radiobutton.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\obj\Debug\Textbox_Radiobutton.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Textbox_Radiobutton\obj\Debug\Textbox_Radiobutton.pdb

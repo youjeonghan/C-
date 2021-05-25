@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{F0F2BA34-E998-4790-9C3F-66CC2C33D6A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{F0F2BA34-E998-4790-9C3F-66CC2C33D6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTextBoxPasswordForm", "Test\LabelTextBoxPasswordForm.csproj", "{827106C1-10F0-42AB-94ED-F14209A55869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textbox_Radiobutton", "Textbox_Radiobutton\Textbox_Radiobutton.csproj", "{0C134BF7-37FD-42EE-9B38-1CBA787CF3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkbox", "Checkbox\Checkbox.csproj", "{A12797F8-3D43-4A2A-9745-C6CC0C4BA519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Groupbox", "Groupbox\Groupbox.csproj", "{0C2445D7-A94E-4C61-A6EB-9527AB12A3ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panel", "Panel\Panel.csproj", "{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{F0F2BA34-E998-4790-9C3F-66CC2C33D6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0F2BA34-E998-4790-9C3F-66CC2C33D6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0F2BA34-E998-4790-9C3F-66CC2C33D6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827106C1-10F0-42AB-94ED-F14209A55869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827106C1-10F0-42AB-94ED-F14209A55869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827106C1-10F0-42AB-94ED-F14209A55869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827106C1-10F0-42AB-94ED-F14209A55869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C134BF7-37FD-42EE-9B38-1CBA787CF3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C134BF7-37FD-42EE-9B38-1CBA787CF3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C134BF7-37FD-42EE-9B38-1CBA787CF3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C134BF7-37FD-42EE-9B38-1CBA787CF3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12797F8-3D43-4A2A-9745-C6CC0C4BA519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12797F8-3D43-4A2A-9745-C6CC0C4BA519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12797F8-3D43-4A2A-9745-C6CC0C4BA519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12797F8-3D43-4A2A-9745-C6CC0C4BA519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2445D7-A94E-4C61-A6EB-9527AB12A3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2445D7-A94E-4C61-A6EB-9527AB12A3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2445D7-A94E-4C61-A6EB-9527AB12A3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2445D7-A94E-4C61-A6EB-9527AB12A3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\bin\Debug\Test.exe.config
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\bin\Debug\Test.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\bin\Debug\Test.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\obj\Debug\Test.Form1.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\obj\Debug\Test.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Test\obj\Debug\Test.pdb
