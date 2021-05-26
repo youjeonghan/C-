@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panel", "Panel\Panel.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picturebox", "Picturebox\Picturebox.csproj", "{498077A6-053F-4AE0-905F-DEFC1D1AEC73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFile", "OpenFile\OpenFile.csproj", "{06936F31-646C-49DD-8B43-E2A6285C4029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFile_Tooltip", "OpenFile\OpenFile_Tooltip.csproj", "{06936F31-646C-49DD-8B43-E2A6285C4029}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

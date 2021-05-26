@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\bin\Debug\MonthCalender.exe.config
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\bin\Debug\MonthCalender.exe
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\bin\Debug\MonthCalender.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\obj\Debug\MonthCalender.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\obj\Debug\MonthCalender.Form1.resources
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\obj\Debug\MonthCalender.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\obj\Debug\MonthCalender.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\obj\Debug\MonthCalender.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\obj\Debug\MonthCalender.exe
+C:\Dev\Github\C_sharp_progaming\Chapter11\MonthCalender\obj\Debug\MonthCalender.pdb
