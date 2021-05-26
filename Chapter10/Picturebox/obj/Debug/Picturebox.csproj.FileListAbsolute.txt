@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\bin\Debug\Picturebox.exe.config
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\bin\Debug\Picturebox.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\bin\Debug\Picturebox.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\obj\Debug\Picturebox.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\obj\Debug\Picturebox.Form1.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\obj\Debug\Picturebox.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\obj\Debug\Picturebox.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\obj\Debug\Picturebox.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\obj\Debug\Picturebox.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\Picturebox\obj\Debug\Picturebox.pdb

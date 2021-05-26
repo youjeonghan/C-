@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Groupbox", "Groupbox\Groupb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panel", "Panel\Panel.csproj", "{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picturebox", "Picturebox\Picturebox.csproj", "{498077A6-053F-4AE0-905F-DEFC1D1AEC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFile", "OpenFile\OpenFile.csproj", "{06936F31-646C-49DD-8B43-E2A6285C4029}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06CFAD7A-FBDD-48F3-87E8-A3F10DB549D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498077A6-053F-4AE0-905F-DEFC1D1AEC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498077A6-053F-4AE0-905F-DEFC1D1AEC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498077A6-053F-4AE0-905F-DEFC1D1AEC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498077A6-053F-4AE0-905F-DEFC1D1AEC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06936F31-646C-49DD-8B43-E2A6285C4029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06936F31-646C-49DD-8B43-E2A6285C4029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06936F31-646C-49DD-8B43-E2A6285C4029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06936F31-646C-49DD-8B43-E2A6285C4029}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

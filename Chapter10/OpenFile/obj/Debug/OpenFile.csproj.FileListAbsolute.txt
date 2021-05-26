@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\bin\Debug\OpenFile.exe.config
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\bin\Debug\OpenFile.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\bin\Debug\OpenFile.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\obj\Debug\OpenFile.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\obj\Debug\OpenFile.Form1.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\obj\Debug\OpenFile.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\obj\Debug\OpenFile.exe
+C:\Dev\Github\C_sharp_progaming\Chapter10\OpenFile\obj\Debug\OpenFile.pdb
