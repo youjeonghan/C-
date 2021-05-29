@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eFIOb6BCh4623PeuQULinGG3FrApY0+BOT9qSQh+yvlD+ENLO09eukDuNuGRcwelfTk6BEqJMCOfmRngIQXFuw==",
+  "dgSpecHash": "GjZWPh9KdP6kG447nGovmQC1C6/jJnofV9Zj2xIZ+6mtEGj32EGvX5p50eScs9bLHkOvumBXKomf6yZtSFE7yw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter12\\DivideExceptionHandling\\DivideExceptionHandling.csproj",
+  "projectFilePath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter12\\DivideExceptionHandling\\DivideByZeroException.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

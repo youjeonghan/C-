@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideExceptionHandling", "DivideExceptionHandling\DivideExceptionHandling.csproj", "{1F593A19-C1A6-41FC-B6EB-FFFBB9533453}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideByZeroException", "DivideExceptionHandling\DivideByZeroException.csproj", "{1F593A19-C1A6-41FC-B6EB-FFFBB9533453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOutOfRange", "IndexOutOfRange\IndexOutOfRange.csproj", "{CBD34AD2-BDD0-46E0-8EA8-6D375AA68CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Throw", "Throw\Throw.csproj", "{426D3D66-A3B3-443E-9DEE-EBBE15536B21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{1F593A19-C1A6-41FC-B6EB-FFFBB9533453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F593A19-C1A6-41FC-B6EB-FFFBB9533453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F593A19-C1A6-41FC-B6EB-FFFBB9533453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD34AD2-BDD0-46E0-8EA8-6D375AA68CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD34AD2-BDD0-46E0-8EA8-6D375AA68CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD34AD2-BDD0-46E0-8EA8-6D375AA68CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD34AD2-BDD0-46E0-8EA8-6D375AA68CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426D3D66-A3B3-443E-9DEE-EBBE15536B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426D3D66-A3B3-443E-9DEE-EBBE15536B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426D3D66-A3B3-443E-9DEE-EBBE15536B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426D3D66-A3B3-443E-9DEE-EBBE15536B21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

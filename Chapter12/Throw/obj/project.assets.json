@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter12\\DivideExceptionHandling\\DivideByZeroException.csproj",
-      "projectName": "DivideByZeroException",
-      "projectPath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter12\\DivideExceptionHandling\\DivideByZeroException.csproj",
+      "projectUniqueName": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter12\\Throw\\Throw.csproj",
+      "projectName": "Throw",
+      "projectPath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter12\\Throw\\Throw.csproj",
       "packagesPath": "C:\\Users\\Jeongran\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter12\\DivideExceptionHandling\\obj\\",
+      "outputPath": "C:\\Dev\\Github\\C_sharp_progaming\\Chapter12\\Throw\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jeongran\\AppData\\Roaming\\NuGet\\NuGet.Config",

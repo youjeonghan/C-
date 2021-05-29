@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\bin\Debug\netcoreapp3.1\Throw.exe
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\bin\Debug\netcoreapp3.1\Throw.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\bin\Debug\netcoreapp3.1\Throw.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\bin\Debug\netcoreapp3.1\Throw.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\bin\Debug\netcoreapp3.1\Throw.dll
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\bin\Debug\netcoreapp3.1\Throw.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\obj\Debug\netcoreapp3.1\Throw.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\obj\Debug\netcoreapp3.1\Throw.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\obj\Debug\netcoreapp3.1\Throw.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\obj\Debug\netcoreapp3.1\Throw.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\obj\Debug\netcoreapp3.1\Throw.dll
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\obj\Debug\netcoreapp3.1\Throw.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter12\Throw\obj\Debug\netcoreapp3.1\Throw.genruntimeconfig.cache
