@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\bin\Debug\netcoreapp3.1\DivideExceptionHandling.exe
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\bin\Debug\netcoreapp3.1\DivideExceptionHandling.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\bin\Debug\netcoreapp3.1\DivideExceptionHandling.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\bin\Debug\netcoreapp3.1\DivideExceptionHandling.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\bin\Debug\netcoreapp3.1\DivideExceptionHandling.dll
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\bin\Debug\netcoreapp3.1\DivideExceptionHandling.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\obj\Debug\netcoreapp3.1\DivideExceptionHandling.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\obj\Debug\netcoreapp3.1\DivideExceptionHandling.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\obj\Debug\netcoreapp3.1\DivideExceptionHandling.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\obj\Debug\netcoreapp3.1\DivideExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\obj\Debug\netcoreapp3.1\DivideExceptionHandling.dll
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\obj\Debug\netcoreapp3.1\DivideExceptionHandling.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter12\DivideExceptionHandling\obj\Debug\netcoreapp3.1\DivideExceptionHandling.genruntimeconfig.cache
