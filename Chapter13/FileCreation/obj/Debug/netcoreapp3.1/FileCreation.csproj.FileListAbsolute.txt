@@ -1,0 +1,12 @@
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\bin\Debug\netcoreapp3.1\FileCreation.exe
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\bin\Debug\netcoreapp3.1\FileCreation.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\bin\Debug\netcoreapp3.1\FileCreation.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\bin\Debug\netcoreapp3.1\FileCreation.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\bin\Debug\netcoreapp3.1\FileCreation.dll
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\bin\Debug\netcoreapp3.1\FileCreation.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\obj\Debug\netcoreapp3.1\FileCreation.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\obj\Debug\netcoreapp3.1\FileCreation.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\obj\Debug\netcoreapp3.1\FileCreation.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\obj\Debug\netcoreapp3.1\FileCreation.dll
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\obj\Debug\netcoreapp3.1\FileCreation.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileCreation\obj\Debug\netcoreapp3.1\FileCreation.genruntimeconfig.cache

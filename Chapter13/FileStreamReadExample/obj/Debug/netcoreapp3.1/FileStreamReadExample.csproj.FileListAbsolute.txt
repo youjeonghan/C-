@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\bin\Debug\netcoreapp3.1\FileStreamReadExample.exe
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\bin\Debug\netcoreapp3.1\FileStreamReadExample.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\bin\Debug\netcoreapp3.1\FileStreamReadExample.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\bin\Debug\netcoreapp3.1\FileStreamReadExample.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\bin\Debug\netcoreapp3.1\FileStreamReadExample.dll
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\bin\Debug\netcoreapp3.1\FileStreamReadExample.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\obj\Debug\netcoreapp3.1\FileStreamReadExample.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\obj\Debug\netcoreapp3.1\FileStreamReadExample.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\obj\Debug\netcoreapp3.1\FileStreamReadExample.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\obj\Debug\netcoreapp3.1\FileStreamReadExample.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\obj\Debug\netcoreapp3.1\FileStreamReadExample.dll
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\obj\Debug\netcoreapp3.1\FileStreamReadExample.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter13\FileStreamReadExample\obj\Debug\netcoreapp3.1\FileStreamReadExample.genruntimeconfig.cache

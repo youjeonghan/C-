@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FileStreamWeiteExample1/1.0.0": {
+        "runtime": {
+          "FileStreamWeiteExample1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileStreamWeiteExample1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

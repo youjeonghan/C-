@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriterExample.exe
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriterExample.deps.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriterExample.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriterExample.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriterExample.dll
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriterExample.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriterExample.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriterExample.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriterExample.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriterExample.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriterExample.dll
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriterExample.pdb
+C:\Dev\Github\C_sharp_progaming\Chapter13\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriterExample.genruntimeconfig.cache
