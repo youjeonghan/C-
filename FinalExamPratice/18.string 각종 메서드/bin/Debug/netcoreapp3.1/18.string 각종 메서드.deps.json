@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "18.string 각종 메서드/1.0.0": {
+        "runtime": {
+          "18.string 각종 메서드.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18.string 각종 메서드/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

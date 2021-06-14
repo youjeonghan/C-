@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\bin\Debug\16.GUI 파일입출력.exe.config
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\bin\Debug\16.GUI 파일입출력.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\bin\Debug\16.GUI 파일입출력.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\obj\Debug\16.GUI 파일입출력.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\obj\Debug\_16.GUI_파일입출력.Form1.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\obj\Debug\_16.GUI_파일입출력.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\obj\Debug\16.GUI 파일입출력.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\obj\Debug\16.GUI 파일입출력.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\obj\Debug\16.GUI 파일입출력.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\16.GUI 파일입출력\obj\Debug\16.GUI 파일입출력.pdb

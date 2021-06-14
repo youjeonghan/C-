@@ -1,0 +1,12 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\bin\Debug\netcoreapp3.1\15.파일입출력.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\bin\Debug\netcoreapp3.1\15.파일입출력.deps.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\bin\Debug\netcoreapp3.1\15.파일입출력.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\bin\Debug\netcoreapp3.1\15.파일입출력.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\bin\Debug\netcoreapp3.1\15.파일입출력.dll
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\bin\Debug\netcoreapp3.1\15.파일입출력.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\obj\Debug\netcoreapp3.1\15.파일입출력.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\obj\Debug\netcoreapp3.1\15.파일입출력.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\obj\Debug\netcoreapp3.1\15.파일입출력.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\obj\Debug\netcoreapp3.1\15.파일입출력.dll
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\obj\Debug\netcoreapp3.1\15.파일입출력.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\15.파일입출력\obj\Debug\netcoreapp3.1\15.파일입출력.genruntimeconfig.cache

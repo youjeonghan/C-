@@ -1,0 +1,12 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\bin\Debug\netcoreapp3.1\17.문자열 나누기.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\bin\Debug\netcoreapp3.1\17.문자열 나누기.deps.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\bin\Debug\netcoreapp3.1\17.문자열 나누기.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\bin\Debug\netcoreapp3.1\17.문자열 나누기.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\bin\Debug\netcoreapp3.1\17.문자열 나누기.dll
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\bin\Debug\netcoreapp3.1\17.문자열 나누기.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\obj\Debug\netcoreapp3.1\17.문자열 나누기.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\obj\Debug\netcoreapp3.1\17.문자열 나누기.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\obj\Debug\netcoreapp3.1\17.문자열 나누기.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\obj\Debug\netcoreapp3.1\17.문자열 나누기.dll
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\obj\Debug\netcoreapp3.1\17.문자열 나누기.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\17.문자열 나누기\obj\Debug\netcoreapp3.1\17.문자열 나누기.genruntimeconfig.cache
