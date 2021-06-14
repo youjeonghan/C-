@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\obj\Debug\8.이미지리스트 타이머로 실행.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\obj\Debug\8.이미지리스트 타이머로 실행.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp4\obj\Debug\8.이미지리스트 타이머로 실행.csprojAssemblyReference.cache

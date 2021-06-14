@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\bin\Debug\9.이미지업로드.exe.config
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\bin\Debug\9.이미지업로드.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\bin\Debug\9.이미지업로드.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\obj\Debug\9.이미지업로드.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\obj\Debug\_9.이미지업로드.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\obj\Debug\9.이미지업로드.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\obj\Debug\9.이미지업로드.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\obj\Debug\9.이미지업로드.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\obj\Debug\9.이미지업로드.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\9.이미지업로드\obj\Debug\_9.이미지업로드.Form1.resources

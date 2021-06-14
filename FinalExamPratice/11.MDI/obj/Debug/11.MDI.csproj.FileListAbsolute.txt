@@ -1,0 +1,11 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\bin\Debug\11.MDI.exe.config
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\bin\Debug\11.MDI.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\bin\Debug\11.MDI.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\obj\Debug\11.MDI.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\obj\Debug\_11.MDI.Form1.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\obj\Debug\_11.MDI.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\obj\Debug\11.MDI.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\obj\Debug\11.MDI.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\obj\Debug\11.MDI.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\obj\Debug\11.MDI.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\11.MDI\obj\Debug\_11.MDI.child1.resources

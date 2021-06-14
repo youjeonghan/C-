@@ -1,0 +1,10 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache

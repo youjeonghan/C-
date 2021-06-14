@@ -131,9 +131,11 @@ var filtered = from value in values
                select value;
 
 // 제네릭 클래스 List<T>
+using System.Collections.Generic;
 var items = new List<string>();
 items.Add("red");               // red
 items.Insert(0, "yellow");      // yellow, red
 items.Add("green");             // yellow, red, green
-items.Remove("yellow");         // red, green           (여러개면 첫번째로나오는거 지움)
-tems.RemoveAt(1);               // red              (인덱스 1 인거 지움)
+items.Remove("yellow");         // red, green       (여러개면 첫번째로나오는거 지움)
+tems.RemoveAt(1);               // red          (인덱스 1 인거 지움)
+

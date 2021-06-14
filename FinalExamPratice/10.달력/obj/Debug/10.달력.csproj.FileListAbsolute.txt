@@ -1,0 +1,9 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\bin\Debug\10.달력.exe.config
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\bin\Debug\10.달력.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\bin\Debug\10.달력.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\obj\Debug\_10.달력.Form1.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\obj\Debug\_10.달력.Properties.Resources.resources
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\obj\Debug\10.달력.csproj.GenerateResource.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\obj\Debug\10.달력.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\obj\Debug\10.달력.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\10.달력\obj\Debug\10.달력.pdb

@@ -1,0 +1,13 @@
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\bin\Debug\netcoreapp3.1\린큐 let upper startwith 사용.exe
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\bin\Debug\netcoreapp3.1\린큐 let upper startwith 사용.deps.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\bin\Debug\netcoreapp3.1\린큐 let upper startwith 사용.runtimeconfig.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\bin\Debug\netcoreapp3.1\린큐 let upper startwith 사용.runtimeconfig.dev.json
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\bin\Debug\netcoreapp3.1\린큐 let upper startwith 사용.dll
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\bin\Debug\netcoreapp3.1\린큐 let upper startwith 사용.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\obj\Debug\netcoreapp3.1\린큐 let upper startwith 사용.csprojAssemblyReference.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\obj\Debug\netcoreapp3.1\린큐 let upper startwith 사용.AssemblyInfoInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\obj\Debug\netcoreapp3.1\린큐 let upper startwith 사용.AssemblyInfo.cs
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\obj\Debug\netcoreapp3.1\린큐 let upper startwith 사용.csproj.CoreCompileInputs.cache
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\obj\Debug\netcoreapp3.1\린큐 let upper startwith 사용.dll
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\obj\Debug\netcoreapp3.1\린큐 let upper startwith 사용.pdb
+C:\Dev\Github\C_sharp_progaming\FinalExamPratice\린큐 let upper startwith 사용\obj\Debug\netcoreapp3.1\린큐 let upper startwith 사용.genruntimeconfig.cache
